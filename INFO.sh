@@ -1,8 +1,8 @@
 #!/bin/bash
-source /pkgscripts-ng/include/pkg_util.sh
+source /pkgscripts/include/pkg_util.sh
 
 package="WireGuard"
-version="$WIREGUARD_VERSION"
+version="1.0.20200908"
 displayname="WireGuard"
 maintainer="Andreas Runfalk"
 arch="$(pkg_get_platform)"

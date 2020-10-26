@@ -1,0 +1,9 @@
+[submodule "wireguard-linux-compat"]
+	path = wireguard-linux-compat
+	url = https://git.zx2c4.com/wireguard-linux-compat
+[submodule "wireguard-tools"]
+	path = wireguard-tools
+	url = https://git.zx2c4.com/wireguard-tools
+[submodule "libmnl"]
+	path = libmnl
+	url = git://git.netfilter.org/libmnl
